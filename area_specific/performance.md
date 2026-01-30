@@ -15,6 +15,9 @@
 
 ## Articles
 
+- [SIMD Parallelism](https://cvw.cac.cornell.edu/vector/overview_simd)
+- [Towards Fearless SIMD](https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html)
+- [Myths CPU programmers believe about caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 - [Prof. Mark Hill note argues for more use of simple models beyond Amdahl's Law: Bottleneck Analysis, Little's Law, and a M/M/1 Queue.](https://arxiv.org/abs/1901.02926)
 - [How much bandwidth does the L2 have to give, anyway?](https://github.com/travisdowns/uarch-bench/wiki/How-much-bandwidth-does-the-L2-have-to-give,-anyway%3F)
 - [Every 7.8μs your computer’s memory has a hiccup](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/)

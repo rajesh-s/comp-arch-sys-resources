@@ -1,6 +1,6 @@
-# Computer Engineering Resources [![Awesome](https://img.shields.io/badge/view%20as-gitbook-blueviolet)](http://rajesh-s.gitbook.io/compengg) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+# Computer Architecture and Systems Resources [![Awesome](https://img.shields.io/badge/view%20as-gitbook-blueviolet)](http://rajesh-s.gitbook.io/comparchsys) [![GitHub contributors](https://img.shields.io/github/contributors/rajesh-s/awesome-computer-engineering)](https://github.com/rajesh-s/awesome-computer-engineering/graphs/contributors/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-A curated catalogue of Computer Engineering/Computer Architecture/Computer Systems resources
+A curated catalogue of Computer Engineering, Architecture, and Systems resources.
 
 <p align="center">
   <img width="50%" height="50%" src="./graphic.jpg">
@@ -35,12 +35,12 @@ Specialization, e.g. GPUs, accelerators
 - [Digging Deeper](#digging-deeper)
 - [Communities](#communities)
   - [Industry Organizations](#industry-organizations)
-- [Great courses on Computer Architecture](#great-courses-on-computer-architecture)
+- [Popular courses on Computer Architecture](#popular-courses-on-computer-architecture)
   - [Video channels](#video-channels)
 - [Blogs](#blogs)
 - [Podcasts](#podcasts)
-- [Interesting Resources](#interesting-resources)
-- [Other specific curated lists related to CompEngg](#other-specific-curated-lists-related-to-compengg)
+- [The big picture](#the-big-picture)
+- [Other resources](#other-resources)
 
 ## Conferences/Workshops
 
@@ -98,20 +98,17 @@ Computer Architecture is diverse and there's interplay between domains that are 
 
 - [Tools, Utilities, Simulators, Emulators and more](./area_specific/tools_and_utils.md)
 
-- [Systems for Machine Learning](./area_specific/mlsys.md)
-- [High Performance Computing](./area_specific/hpc.md)
-- [Systems](./area_specific/systems.md)
-- [Performance](./area_specific/performance.md)
-- [Parallel Computing](./area_specific/parallel.md)
-- [Operating Systems](./area_specific/os.md)
-- [Computer Programming(Compilers, DSA and more)](./area_specific/programming.md)
-- [Hardware-Software Interface](./area_specific/hw_sw.md)
-- [Accelerators](./area_specific/accelerators.md)
-- [Hardware Design](./area_specific/hardware_design.md)
-- [FPGA](./area_specific/fpga.md)
-- [Processors](./area_specific/processors.md)
-- [Interconnects](./area_specific/interconnects.md)
-- [Electronics](./area_specific/electronics.md)
+- [Electronics](./electronics.md)
+- [Hardware Design](./hardware_design.md)
+- [FPGA](./fpga.md)
+- [Processors](./processors.md)
+- [Interconnects](./interconnects.md)
+- [Accelerators](./accelerators.md)
+- [Memory and Storage Systems](./memory.md)
+- [Performance](./performance.md)
+- [High Performance Computing](./hpc.md)
+- [Computer Systems](./systems.md)
+- [Systems for ML](./mlsys.md)
 
 ## Communities
 
@@ -138,7 +135,7 @@ Computer Architecture is diverse and there's interplay between domains that are 
 - [Open Compute Project](https://www.opencompute.org/) - Focus on reimagining hardware, making it more efficient, flexible, and scalable.
 - [Open Chiplet Initiative](https://zglue.com/oci) - zGlue Open Chiplet Initiative is a gallery of open designs, tools, and file formats that span the chiplet ecosystem from toolsets all the way to completed designs. The goal of the initiative is to lower the barrier for entry to create a collaborative environment for chiplet-based systems.
 
-## Great courses on Computer Architecture
+## Popular courses on Computer Architecture
 
 - Prof. Onur Mutlu's [lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g/playlists) and [talks](https://people.inf.ethz.ch/omutlu/talks.htm)
 - [Computer Organization](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy) and [Computer Architecture](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6) courses by Prof. Rajeev Balasubramonian 
@@ -173,7 +170,7 @@ Computer Architecture is diverse and there's interplay between domains that are 
 - [TLB hit](https://tlbh.it)
 - [Signals and Threads](https://signalsandthreads.com/)
 
-## Interesting Resources
+## The big picture
 
 - [The evolution of chiplets illustrated by Financial times](https://ig.ft.com/microchips/)
 - [The Great ISAs - Adrian Sampson](https://www.cs.cornell.edu/courses/cs7491/2020sp/)
@@ -194,7 +191,7 @@ Computer Architecture is diverse and there's interplay between domains that are 
 - [AI Chip Landscape in 2020](https://github.com/basicmi/AI-Chip) - A list of ICs and IPs for AI, Machine Learning and Deep Learning.
 - [Animations for concepts in Computer Architecture](https://www.scss.tcd.ie/Jeremy.Jones/VivioJS/)
 
-## Other specific curated lists related to CompEngg
+## Other resources
 
 - [awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - A curated list of awesome open source hardware tools.
 - [awesome-semiconductor-startups](https://github.com/aolofsson/awesome-semiconductor-startups) - A curated list of awesome semiconductor startups.

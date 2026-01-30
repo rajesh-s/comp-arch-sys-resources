@@ -26,7 +26,6 @@
 - [nanoBench](http://www.uops.info) - A tool for running small microbenchmarks on recent Intel and AMD x86 CPUs using hardware performance coutners. [Github](https://github.com/andreas-abel/nanoBench)
 - [kerncraft](https://github.com/RRZE-HPC/kerncraft) - This tool allows automatic analysis of loop kernels using the Execution Cache Memory (ECM) model, the Roofline model and actual benchmarks. kerncraft provides a framework to investigate the data reuse and cache requirements by static code analysis. In combination with the Intel IACA tool kerncraft can give a good overview of both in-core and memory bottlenecks and use that data to apply performance models.
 - [TAU Performance System](https://www.cs.uoregon.edu/research/tau/home.php) - A portable profiling and tracing toolkit for performance analysis of parallel programs written in Fortran, C, C++, UPC, Java, Python.
-- [Scalene](https://github.com/plasma-umass/scalene) - A high-performance CPU, GPU and memory profiler for Python
 - [WhyProfiler](https://github.com/robusta-dev/WhyProfiler) - WhyProfiler is a CPU profiler for Jupyter notebook that not only identifies hotspots but can suggest faster alternatives.
 - [CPU Benchmark results](https://www.anandtech.com/bench/CPU-2019/2605)
 - [Cost of GPUs in the cloud](https://cloud-gpus.com/) - Estimate the cost of running deep learning workloads on cloud GPUs
@@ -39,6 +38,17 @@
 - [CacheGrind](https://valgrind.org/docs/manual/cg-manual.html) - Cachegrind is a high-precision tracing profiler. It runs slowly, but collects precise and reproducible profiling data. Cachegrind can also simulate how your program interacts with a machine's cache hierarchy and branch predictor.
 - [Utility for Core to Core latency measurements](https://github.com/nviennot/core-to-core-latency)
 - [Intel Memory latency checker](https://www.intel.com/content/www/us/en/developer/articles/tool/intelr-memory-latency-checker.html) - measure memory latencies and b/w, and how they change with increasing load on the system
+- [gprof](https://sourceware.org/binutils/docs/gprof/) – User-space CPU profiler to answer: *“Which functions in my program are slow?”*
+- [ftrace](https://www.kernel.org/doc/html/latest/trace/ftrace.html) – Linux kernel tracing framework to answer: *“What is the kernel doing while my system is slow?”*
+
+Memory profilers:
+
+- [Scalene](https://github.com/plasma-umass/scalene) - A high-performance CPU, GPU and memory profiler for Python
+- [memray](https://github.com/bloomberg/memray) – Python memory profiler for tracking allocations, leaks, and peak memory usage with low overhead and detailed call stacks
+- [heaptrack](https://github.com/KDE/heaptrack) – Heap memory profiler for C/C++ applications that records allocations, identifies leaks, and attributes memory usage to call paths over time
+- [guppy3](https://github.com/zhuyifei1999/guppy3) – Python heap analysis and profiling tool that provides heap snapshots, object graphs, and memory growth analysis for debugging memory usage
+
+
 
 ### 1.3. Benchmarking
 
