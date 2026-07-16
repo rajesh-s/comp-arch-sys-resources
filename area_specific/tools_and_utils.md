@@ -183,6 +183,7 @@ Memory profilers:
 - [8bit Workshop](http://8bitworkshop.com/redir.html?platform=verilog) - Verilog to waves instantly
 - [Logic Design and Circuit Simulator](https://github.com/hneemann/Digital)
 - [LogicEmu](https://lodev.org/logicemu/) - Logic simulator in your browser
+- [digiwleea](https://digiwleea.wleeaf.dev) - Browser-based switch-level logic simulator and guided course: build gates from NMOS/PMOS transistors and compose them up to a working 8-bit CPU
 - [Transistor level 6502 Hardware Simulation in Javascript](https://github.com/trebonian/visual6502) - [Visual6502](https://floooh.github.io/visual6502remix/)
 - [Xyce](https://xyce.sandia.gov/) - open source, SPICE-compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems by supporting large-scale parallel computing platforms.
 - [Micro Cap 12](http://www.spectrum-soft.com/download/download.shtm) - Micro-Cap 12 is an integrated schematic editor and mixed analog/digital simulator that provides an interactive sketch and simulate environment for electronics engineers. Now Open Source.
