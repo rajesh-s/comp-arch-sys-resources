@@ -169,6 +169,7 @@ Computer Architecture is diverse and there's interplay between domains that are 
 - [Happy Hour with Architects](https://www.youtube.com/channel/UC2iMjxGk-DU6hhcRxCHZbrw/featured)
 - [TLB hit](https://tlbh.it)
 - [Signals and Threads](https://signalsandthreads.com/)
+- [Wearing Flip-Flops](https://wearing-flip-flops.com)
 
 ## The big picture
 
